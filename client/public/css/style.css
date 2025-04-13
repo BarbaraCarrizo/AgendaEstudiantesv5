@@ -60,6 +60,13 @@ body {
   transition: background 0.3s ease;
 }
 
+.logo {
+  width: 65px;
+  height: 65px;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
 #btnOpenForm:hover {
   background: #ffaa00;
 }
